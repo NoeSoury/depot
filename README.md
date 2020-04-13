@@ -20,3 +20,6 @@ Projet SpaceInvaders
 
 ### Diagramme de classes
 ![Diagramme de classe](https://github.com/NoeSoury/depot/blob/master/src/main/java/fr/unilim/iut/spaceinvaders/DiagrammeMetier.gif)
+
+### Nuages de mots
+![Nuages de mots](https://github.com/NoeSoury/depot/blob/master/src/main/java/fr/unilim/iut/spaceinvaders/image/nuagesDeMot.png)
