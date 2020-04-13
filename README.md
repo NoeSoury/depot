@@ -19,5 +19,4 @@ Projet SpaceInvaders
   Story identique à la précédente mais du côté gauche. Puis refactoring important dans presque toutes les classes du jeu. 
 
 ### Diagramme de classes
-![Diagramme de classe]
-(https://github.com/NoeSoury/depot/blob/master/src/main/java/fr/unilim/iut/spaceinvaders/DiagrammeMetier.gif)
+![Diagramme de classe](https://github.com/NoeSoury/depot/blob/master/src/main/java/fr/unilim/iut/spaceinvaders/DiagrammeMetier.gif)
