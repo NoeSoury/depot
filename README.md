@@ -44,6 +44,12 @@ Objectif : Déplacer le vaisseau avec une vitesse quelconque
 * Story n°4 : Et bien, jouons maintenant ! <br>
   Modification de la classe SpaceInvaders pour qu'elle prenne en compte la vitesse.
   
+### Diagramme de classes
+![Diagramme de classe](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/DiagrammeMetier2.gif)
+
+### Nuages de mots
+![Nuages de mots](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/nuagesDeMot2.png)
+
   ## Semaine n°4: du 4 au 8 Mai
 ### Sprints et fonctionnalités réalisées
 #### Fonctionnalité n°4: Tirer un missile depuis le vaisseau
@@ -62,3 +68,9 @@ Objectif : Déplacer le vaisseau avec une vitesse quelconque
   
 * Story n°5 : Faire déplacer le missile à la verticale de manière autonome  <br>
   Mise en place d'une classe Direction ajustant les missiles, puis refactoring afin que le missile puisse se déplacer dans le jeu.
+
+### Diagramme de classes
+![Diagramme de classe](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/DiagrammeMetier3.gif)
+
+### Nuages de mots
+![Nuages de mots](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/nuagesDeMot3.png)
