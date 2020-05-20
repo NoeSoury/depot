@@ -74,3 +74,22 @@ Objectif : Déplacer le vaisseau avec une vitesse quelconque
 
 ### Nuages de mots
 ![Nuages de mots](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/nuagesDeMot3.png)
+
+## Semaine n°5: du 11 au 17 mai
+### Sprints et fonctionnalités réalisées
+#### Fonctionnalité n°5 : Ajouter un envahisseur dans le jeu
+
+* Story n°1 : Refactoring
+  Modiffication des package.
+
+* Story n°2 : Envahisseur 
+  Création d'une nouvelle classe "Envahisseur".
+  
+* Story n°3 : Déplacements 
+  Faire déplacer l'envahisseur en fonction de l'environnement.
+
+### Diagramme de classes
+![Diagramme de classe](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/DiagrammeMetier4.gif)
+
+### Nuages de mots
+![Nuages de mots](https://github.com/NoeSoury/depot/blob/master/spaceinvaders/image/nuagesDeMot4.png)
